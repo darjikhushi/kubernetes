@@ -1,4 +1,5 @@
 for{
   add a,
   add b,
-  add c}a
+  add c
+}
